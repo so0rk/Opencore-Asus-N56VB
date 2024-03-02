@@ -27,7 +27,7 @@ I own an _ASUS N56VB_, more specifically:
 | --------: | :---------- |
 | CPU | Intel Core i7 3600QM (Ivy Bridge) |
 | iGPU | Intel® HD Graphics 4000 |
-| dGPU | Nvidia GeForce GT 750M |
+| dGPU | Nvidia GeForce GT 740M |
 | RAM | 8GB DDR3L 1600MHz |
 | HDD | HITACHI HTS545032B9A300 |
 | WLAN & BT | ATHEROSAR9485 |
