@@ -38,11 +38,11 @@ The subwoofer the laptop came with doesn't work and I haven't tried to make it w
 ## What is working?
 
 <span style="color:green;margin-left:1rem">&#9745;</span> Power management  
-<span style="color:green;margin-left:1rem">&#9745;</span> iGPU[^1] (HDMI with audio[^2])  
+<span style="color:green;margin-left:1rem">&#9745;</span> iGPU. (HDMI with audio)  
 <span style="color:green;margin-left:1rem">&#9745;</span> WiFi & Bluetooth  
 <span style="color:green;margin-left:1rem">&#9745;</span> Battery read outs  
 <span style="color:green;margin-left:1rem">&#9745;</span> Sleep  
-<span style="color:green;margin-left:1rem">&#9745;</span> Audio[^3]  
+<span style="color:green;margin-left:1rem">&#9745;</span> Audio  
 <span style="color:green;margin-left:1rem">&#9745;</span> Touchpad with gestures  
 <span style="color:green;margin-left:1rem">&#9745;</span> FN Keys    
 <span style="color:green;margin-left:1rem">&#9745;</span> USB3.0 Ports  
